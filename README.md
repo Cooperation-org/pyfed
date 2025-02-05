@@ -1,4 +1,4 @@
-# !!! THIS IS A COPY FROM THE PYFED ON GITLAB, LATEST VERSION SHOULD BE IN THERE. CHECK OUT [PYFED GITLAB](https://dev.funkwhale.audio/funkwhale/pyfed)
+# !!! This is a copy from Pyfed on GitLab, latest version should be in there. Check out [Pyfed GitLab](https://dev.funkwhale.audio/funkwhale/pyfed)
 
 # PyFed
 
